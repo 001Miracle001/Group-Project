@@ -1,0 +1,15 @@
+.Section {
+    width: 100%;
+    position: fixed;
+    
+  }
+  
+  .imagesSection {
+    margin-top: 5%;
+    width: 100%;
+  }
+  
+  .slidesComp {
+  width: 100%;
+  height: 50vh;
+  }

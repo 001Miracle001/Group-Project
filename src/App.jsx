@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Carousal from './component/slide'
 
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
 
   return (
     <>
-     <h1> Hello WelCome EveryOne </h1>
+   <Carousal/>
     </>
   )
 }
